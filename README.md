@@ -9,3 +9,11 @@ https://www.nexusmods.com/stardewvalley/mods/19454
 ## Twitter / X thread discussing this mod
 
 https://twitter.com/dev_spajus/status/1733122991943250182
+
+# Neeko Nee
+
+updated to .Net 6.0
+
+Tested on 1.6 with 620 mods, has some trouble at times but when it works it does load the game ~30% faster
+
+Mostly unnecesary now with 1.6 loading faster but some people (inluding myself) wanted it updated

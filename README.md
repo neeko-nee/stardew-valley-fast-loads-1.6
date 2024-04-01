@@ -10,7 +10,7 @@ https://www.nexusmods.com/stardewvalley/mods/19454
 
 https://twitter.com/dev_spajus/status/1733122991943250182
 
-# Neeko Nee
+## Neeko Nee notes
 
 updated to .Net 6.0
 

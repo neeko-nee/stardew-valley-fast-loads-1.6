@@ -1,0 +1,9 @@
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\bin\Debug\net6.0\FastLoads.deps.json
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\bin\Debug\net6.0\FastLoads.dll
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.csproj.AssemblyReference.cache
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.AssemblyInfoInputs.cache
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.AssemblyInfo.cs
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.csproj.CoreCompileInputs.cache
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.sourcelink.json
+C:\Users\lilyb\source\repos\stardew-valley-fast-loads\FastLoads\obj\Debug\net6.0\FastLoads.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hB4UxwQ5v3cMbSkpoVdB6lkQeE/VvGNeVh+s5E/bzqbNcLmoF46VYGptL0mImJMn4XWXzRrLcH4LkHyYJuMpBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilyb\\Source\\Repos\\stardew-valley-fast-loads\\FastLoads\\FastLoads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilyb\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -152,6 +152,7 @@ namespace FastLoads {
         [HarmonyPatch(typeof(NPC), "exploreWarpPoints")]
         public static class NPC_exploreWarpPoints {
             [HarmonyPrefix, HarmonyPriority(Priority.First)]
+            [Obsolete]
             public static bool Prefix(ref bool __result, GameLocation l, List<string> route) {
                 // ModEntry.Mon.Log($"Recursive ExploreWarpPoints: {list.Count} / {RoutesFromLocToLocHash.Count}", LogLevel.Warn);
                 bool added = false;
